@@ -1,0 +1,18 @@
+{
+  "6935846121": {
+    "username": "Houssin363",
+    "balance": 0,
+    "history": [],
+    "is_admin": 1,
+    "blocked": false,
+    "pending_payments": {}
+  },
+  "5401037337": {
+    "username": "بدون معرف",
+    "balance": 0,
+    "history": [],
+    "payments": {
+      "seriatel_cash": "٥٩٨٨٦"
+    }
+  }
+}
