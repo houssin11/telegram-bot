@@ -2,7 +2,7 @@ import os
 import json
 from datetime import datetime
 from config import USD_RATE_1, USD_RATE_2, USD_RATE_3, ADMIN_CHAT_ID
-from notification import notify_new_payment  # استيراد الدالة الجديدة
+from src.notification import notify_new_payment  # تم التعديل هنا
 from logger import log_error  # استيراد تسجيل الأخطاء
 
 # 🔧 مسارات البيانات
