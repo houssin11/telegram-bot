@@ -1,5 +1,5 @@
 from config import ADMIN_CHAT_ID
-from keyboards import admin_action_kb
+from src.keyboards import admin_action_kb  # تم التعديل هنا
 from logger import log_error
 
 def notify_new_payment(bot, user_id, method, code, amount):
